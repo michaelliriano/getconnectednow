@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://mike123:mike123@mern-stack-dqkfa.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "0ace91a750bf290758e2",
+  "githubSecret": "e3c9caf7fe42c081b94e905fe85b2a094d33c7b6"
+}
